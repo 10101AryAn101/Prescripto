@@ -8,7 +8,11 @@ const Footer = () => {
 
         <div>
           <img className='mb-5 w-40' src={assets.logo} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Prescripto is a modern healthcare platform that simplifies interactions between patients, doctors, and administrators. 
+It offers seamless appointment booking, secure profile management, and efficient healthcare transactions. 
+With real-time scheduling, doctor categorization, and integrated payment processing, it enhances 
+accessibility and convenience. Built with scalable web technologies, it provides a reliable and user-friendly 
+experience, improving healthcare management for all stakeholders.</p>
         </div>
 
         <div>
@@ -24,8 +28,8 @@ const Footer = () => {
         <div>
           <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-2 text-gray-600'>
-            <li>+1-212-456-7890</li>
-            <li>greatstackdev@gmail.com</li>
+            <li>+919999999999</li>
+            <li>prescripto@gmail.com</li>
           </ul>
         </div>
 
