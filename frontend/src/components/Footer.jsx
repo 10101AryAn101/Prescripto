@@ -7,8 +7,8 @@ const Footer = () => {
       <div className='flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10  mt-40 text-sm'>
 
         <div>
-          <img className='mb-5 w-40' src={assets.logo} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Prescripto is a modern healthcare platform that simplifies interactions between patients, doctors, and administrators. 
+          <img className='mb-5 w-24' src={assets.logo} alt="" />
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Cura is a modern healthcare platform that simplifies interactions between patients, doctors, and administrators. 
 It offers seamless appointment booking, secure profile management, and efficient healthcare transactions. 
 With real-time scheduling, doctor categorization, and integrated payment processing, it enhances 
 accessibility and convenience. Built with scalable web technologies, it provides a reliable and user-friendly 
@@ -28,8 +28,8 @@ experience, improving healthcare management for all stakeholders.</p>
         <div>
           <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-2 text-gray-600'>
-            <li>+919999999999</li>
-            <li>prescripto@gmail.com</li>
+            <li>+919696125458</li>
+            <li>cura@gmail.com</li>
           </ul>
         </div>
 
@@ -37,7 +37,7 @@ experience, improving healthcare management for all stakeholders.</p>
 
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>Copyright 2024 @ Prescripto.com - All Right Reserved.</p>
+        <p className='py-5 text-sm text-center'>Copyright 2025 @ Cura.com - All Right Reserved.</p>
       </div>
 
     </div>
